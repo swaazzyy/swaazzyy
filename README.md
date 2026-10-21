@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rodrigo%20Trujillo&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=SysAdmin%20%C2%B7%20DevOps%20%C2%B7%20Homelab%20tinkerer&descAlignY=58&descSize=18&animation=fadeIn" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=fontSize=48&fontColor=ffffff&fontAlignY=38&desc=SysAdmin%20%C2%B7%20DevOps%20%C2%B7%20Homelab%20tinkerer&descAlignY=58&descSize=18&animation=fadeIn" alt="banner" />
 </p>
 
 <p align="center">
@@ -10,8 +10,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍_Málaga,_Spain-2c5364?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/🎓_ASIR-Cesur_Málaga_Este-203a43?style=flat-square" alt="Education" />
   <img src="https://komarev.com/ghpvc/?username=swaazzyy&style=flat-square&color=0f2027&label=Profile+views" alt="Profile views" />
 </p>
 
