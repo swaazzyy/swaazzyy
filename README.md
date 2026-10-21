@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=fontSize=48&fontColor=ffffff&fontAlignY=38&desc=SysAdmin%20%C2%B7%20DevOps%20%C2%B7%20Homelab%20tinkerer&descAlignY=58&descSize=18&animation=fadeIn" alt="banner" />
+  <img src="https://capsule-render.vercel.app/apidesc=SysAdmin%20%C2%B7%20DevOps%20%C2%B7%20Homelab%20tinkerer&descAlignY=58&descSize=18&animation=fadeIn" alt="banner" />
 </p>
 
 <p align="center">
