@@ -4,12 +4,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/swaazzyy">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Python+%7C+Go+%7C+sh;Linux+%7C+Docker+%7C+Terraform+%7C+AWS;Proxmox+homelab+%26+self-hosting;MikroTik+%2F+RouterOS+networking;Automating+everything+I+touch+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=swaazzyy&style=flat-square&color=0f2027&label=Profile+views" alt="Profile views" />
 </p>
 
