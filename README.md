@@ -1,6 +1,12 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/apidesc=SysAdmin%20%C2%B7%20DevOps%20%C2%B7%20Homelab%20tinkerer&descAlignY=58&descSize=18&animation=fadeIn" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=swaazzyy&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=SysAdmin%20%C2%B7%20DevOps%20%C2%B7%20Cloud&descAlignY=58&descSize=18&animation=fadeIn" alt="banner" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/swaazzyy">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Python+%7C+Go+%7C+sh;Linux+%7C+Docker+%7C+Terraform+%7C+AWS;Proxmox+homelab+%26+self-hosting;MikroTik+%2F+RouterOS+networking;Automating+everything+I+touch+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -12,18 +18,16 @@
 ### 👋 About me
 
 ```yaml
-
-experience:
-    - [In my own projects]
-focus:     [infrastructure, automation, networking, self-hosting]
-languages: [Spanish, English]
+role:  [SysAdmin, DevOps, Cloud]
+focus: [infrastructure, automation, networking, self-hosting]
+code:  [Python, Go, sh]
 ```
 
-- 🖥️ Running a **Proxmox homelab** with TrueNAS, self-hosted services and Zabbix monitoring
-- 🌐 Managing **MikroTik / RouterOS** networks and **GenieACS (TR-069)** for GPON ONT fleets
+- 🖥️ Running a **Proxmox homelab** with TrueNAS, self-hosted services and **Zabbix** monitoring
+- 🌐 Configuring **MikroTik / RouterOS** networks and **GenieACS (TR-069)** device management
 - ☁️ Building cloud infrastructure on **AWS** with **Terraform**
-- 🚀 Shipping my own apps on a self-managed **VPS**
-- 💻 Writing code in **Python**, **Go** and **sh**
+- 🐳 Containerizing and deploying services with **Docker** on Linux servers
+- ⚙️ Automating the boring parts with **Python**, **Go** and **sh**
 
 ---
 
