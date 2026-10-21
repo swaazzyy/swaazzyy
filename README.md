@@ -9,10 +9,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=swaazzyy&style=flat-square&color=0f2027&label=Profile+views" alt="Profile views" />
-</p>
-
 ---
 
 ### 👋 About me
@@ -67,9 +63,6 @@ code:  [Python, Go, sh]
   <img src="https://streak-stats.demolab.com?user=swaazzyy&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swaazzyy&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
-</p>
 
 ---
 
