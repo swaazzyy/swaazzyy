@@ -1,16 +1,86 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rodrigo%20Trujillo&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=SysAdmin%20%C2%B7%20DevOps%20%C2%B7%20Homelab%20tinkerer&descAlignY=58&descSize=18&animation=fadeIn" alt="banner" />
+</p>
 
-<!--
-**swaazzyy/swaazzyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/swaazzyy">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Python+%7C+Go+%7C+sh;Linux+%7C+Docker+%7C+Terraform+%7C+AWS;Proxmox+homelab+%26+self-hosting;MikroTik+%2F+RouterOS+networking;Automating+everything+I+touch+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Málaga,_Spain-2c5364?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/🎓_ASIR-Cesur_Málaga_Este-203a43?style=flat-square" alt="Education" />
+  <img src="https://komarev.com/ghpvc/?username=swaazzyy&style=flat-square&color=0f2027&label=Profile+views" alt="Profile views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👋 About me
+
+```yaml
+
+experience:
+    - [In my own projects]
+focus:     [infrastructure, automation, networking, self-hosting]
+languages: [Spanish, English]
+```
+
+- 🖥️ Running a **Proxmox homelab** with TrueNAS, self-hosted services and Zabbix monitoring
+- 🌐 Managing **MikroTik / RouterOS** networks and **GenieACS (TR-069)** for GPON ONT fleets
+- ☁️ Building cloud infrastructure on **AWS** with **Terraform**
+- 🚀 Shipping my own apps on a self-managed **VPS**
+- 💻 Writing code in **Python**, **Go** and **sh**
+
+---
+
+### 🛠️ Tech stack
+
+**Languages**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,go,bash&perline=3" alt="Languages" />
+</p>
+
+**Infra & tools**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows,docker,terraform,aws,nginx,cloudflare,git,github&perline=11" alt="Skills" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge&logo=truenas&logoColor=white" />
+  <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/GenieACS_·_TR--069-4B5563?style=for-the-badge" />
+</p>
+
+---
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=swaazzyy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaazzyy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=swaazzyy&theme=tokyonight&hide_border=true" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swaazzyy&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
+</p>
+
+---
+
+<p align="center">
+  <i>"If you do it twice, automate it."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="footer" />
+</p>
